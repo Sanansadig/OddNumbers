@@ -1,0 +1,6 @@
+D:\C# files\oddNumbers\oddNumbers\bin\Debug\oddNumbers.exe.config
+D:\C# files\oddNumbers\oddNumbers\obj\Debug\oddNumbers.csprojResolveAssemblyReference.cache
+D:\C# files\oddNumbers\oddNumbers\bin\Debug\oddNumbers.exe
+D:\C# files\oddNumbers\oddNumbers\bin\Debug\oddNumbers.pdb
+D:\C# files\oddNumbers\oddNumbers\obj\Debug\oddNumbers.exe
+D:\C# files\oddNumbers\oddNumbers\obj\Debug\oddNumbers.pdb
